@@ -12,7 +12,7 @@ I'm a Cloud DevOps Engineer, a graduate of cloud engineering at Alt School of En
 - 🌱 I'm currently working with Helm charts, Jenkins and CircleCI
 - 😊 I’m looking to contribute to open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer and Cloud Engineer (Entry or Junior Level).
-- 📫 You can [view my resume]([Updated-cv.pdf](https://github.com/gladysgodwin/gladysgodwin/files/12300675/Updated-cv.pdf) and contact me by emailing gladysgodwin79@gmail.com.
+- 📫 You can view my [Resume](https://github.com/gladysgodwin/gladysgodwin/files/12300675/Updated-cv.pdf) and contact me by emailing gladysgodwin79@gmail.com.
 - You can also check out my portfolio website [website](https://github.com/gladysgodwin/link/gladys.doutechsolutions.com/)
 
 ---

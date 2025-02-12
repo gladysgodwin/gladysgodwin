@@ -7,13 +7,12 @@ I'm a Cloud DevOps Engineer, a graduate of cloud engineering at Alt School of En
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I am a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I graduated with a Diploma in Cloud DevOps Engineering.
-- 🌱 I'm currently working with Helm charts, Jenkins and CircleCI
-- 😊 I’m looking to contribute to open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: DevOps Engineer and Cloud Engineer (Entry or Junior Level).
-- 📫 You can view my [Resume](https://github.com/gladysgodwin/gladysgodwin/files/12300675/Updated-cv.pdf) and contact me by emailing gladysgodwin79@gmail.com.
-- You can also check out my portfolio website [website](https://github.com/gladysgodwin/link/gladys.doutechsolutions.com/)
+- 🌱 I graduated with a Diploma in Cloud DevOps Engineering and Bsc in Computer science
+- 🌱 I'm currently working with Datadog, AWS CDK, OpenSearch, CloudFormation, ECS, EKS, Lambda
+- 😊 I’m looking to contribute to open source projects, hackathons.
+- 💼 Job interests: DevOps Engineer/Cloud Engineer roles.
+- 📫 You can contact me by emailing gladysgodwin79@gmail.com.
+- You can also check out my portfolio website [website](https://github.com/gladysgodwin/link/gladys.doutechsolutions.com/). Note might not up-to-date
 
 ---
 
@@ -30,9 +29,9 @@ Name | Badges
 **Web Servers** |  ![Apache2](https://img.shields.io/badge/apache-%23F24E1E.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%234ea94b.svg?style=for-the-badge&logo=nginx&logoColor=white)
 **Configuration Management** | ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible&logoColor=white)
 **Containers and Containeriztion** | ![Docker](https://img.shields.io/badge/docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%230175C2.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-**Infrastructure Provisiong** | ![Terraform](https://img.shields.io/badge/Terraform-%23430098.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**Infrastructure Provisiong** | ![Terraform](https://img.shields.io/badge/Terraform-%23430098.svg?style=for-the-badge&logo=terraform&logoColor=white) | CloudFormation | AWS CDK
 **CI/CD Build Tools**   | ![Jenkins](https://img.shields.io/badge/Jekins-fff?style=for-the-badge&logo=jekins&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-**Monitoring and Logging**   | ![Zabbix](https://img.shields.io/badge/Zabbix-ff0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fff?style=for-the-badge&logo=elasticsearch&logoColor=black) 
+**Monitoring and Logging**   | Datadog | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fff?style=for-the-badge&logo=elasticsearch&logoColor=black) 
 **Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-fff?style=for-the-badge&logo=Google%20Cloud&logoColor=black) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230175C2.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
 </p> 
